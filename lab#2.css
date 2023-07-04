@@ -1,0 +1,39 @@
+@media only screen{
+header{
+    border-color: red;
+    border-radius: 12%;
+    border-width: 10%;
+}
+
+body{
+    background-color: antiquewhite;
+    }
+
+h1  {
+    text-align: center;
+    color:blueviolet;
+    font-size: 120px;    
+    }
+
+p   {
+        font-size: 100px;
+        margin-top: 100%;
+        margin-bottom: 100%;
+        margin-left: 80%;
+        margin-right: 80%;
+    }
+
+strong.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 85px;
+}
+
+image{
+        border-image: auto;
+        border-color: blue;
+    }
+
+* {
+    text-align: justify;
+  }
+}
